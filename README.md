@@ -50,15 +50,19 @@ Alongside frontend dev, I've run a freelance design practice since 2018 — 8+ y
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
- 
-**Testing** <sub>(to review)</sub>
+
+<details>
+<summary><b>Testing</b> (click to expand)</summary>
  
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-1B1C1D?style=for-the-badge&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-**Collaboration & Process**
+</details>
+
+<details>
+<summary><b>Collaboration & Process</b> (click to expand)</summary>
  
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logoColor=white)
@@ -68,7 +72,10 @@ Alongside frontend dev, I've run a freelance design practice since 2018 — 8+ y
 ![monday.com](https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge&logo=monday&logoColor=white)
 ![Wrike](https://img.shields.io/badge/Wrike-63A644?style=for-the-badge&logoColor=white)
 
-**Cloud, Tools & AI**
+</details>
+
+<details>
+<summary><b>Cloud, Tools & AI</b> (click to expand)</summary>
  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -85,9 +92,11 @@ Alongside frontend dev, I've run a freelance design practice since 2018 — 8+ y
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
  
 *AWS services: EC2, S3, RDS, ECS, ECR, ALB, ASG, KMS, SSM, IAM*
+
+</details>
  
 <details>
-<summary><b>🎨 Design & Marketing Tools</b> (click to expand)</summary>
+<summary><b>Design & Marketing Tools</b> (click to expand)</summary>
 
 **Design & Prototyping**
  
